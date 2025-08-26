@@ -66,5 +66,4 @@ conda activate titanic-eda
 
 4. **Launch Jupyter Notebook or VS Code to run Titanic_EDA.ipynb.**
 
-This ensures you have all the same Python packages and versions used in the project
-2. **
+This ensures you have all the same Python packages and versions used in the project.
