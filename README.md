@@ -37,8 +37,3 @@ The goal is to explore the dataset, clean it, generate insights, and visualize p
 1. Open the `Titanic_EDA.ipynb` notebook on GitHub to see all analyses and visuals.
 2. Optionally, download the notebook and run locally using Python.
 
-## Optional Extensions
-- Build a predictive model (e.g., Logistic Regression) to predict survival (not included in this EDA).
-
----
-
